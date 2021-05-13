@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="752240a7-c3d8-4d44-aad2-d811b8489f5b" name="Default Changelist" comment="qw">
+    <list default="true" id="752240a7-c3d8-4d44-aad2-d811b8489f5b" name="Default Changelist" comment="qw1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv" beforeDir="false" afterPath="$PROJECT_DIR$/venv" afterDir="false" />
     </list>
@@ -19,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="train" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pKL0gddLwafOdp4ifbz989T7RV" />
@@ -163,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.trig" />
         <item itemvalue="Python.les_1" />
         <item itemvalue="Python.fam" />
-        <item itemvalue="Python.ai" />
         <item itemvalue="Python.arduino_simulator" />
-        <item itemvalue="Python.trig" />
+        <item itemvalue="Python.ai" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620330009313</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="qw1">
+      <created>1620936600814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620936600814</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +216,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="qw" />
-    <option name="LAST_COMMIT_MESSAGE" value="qw" />
+    <MESSAGE value="qw1" />
+    <option name="LAST_COMMIT_MESSAGE" value="qw1" />
   </component>
 </project>
