@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="752240a7-c3d8-4d44-aad2-d811b8489f5b" name="Default Changelist" comment="" />
+    <list default="true" id="752240a7-c3d8-4d44-aad2-d811b8489f5b" name="Default Changelist" comment="qw">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv" beforeDir="false" afterPath="$PROJECT_DIR$/venv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +34,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.23930754" />
   </component>
-  <component name="RunManager" selected="Python.fam">
+  <component name="RunManager" selected="Python.les_1">
     <configuration name="ai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lesson_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,8 +163,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fam" />
         <item itemvalue="Python.les_1" />
+        <item itemvalue="Python.fam" />
         <item itemvalue="Python.ai" />
         <item itemvalue="Python.arduino_simulator" />
         <item itemvalue="Python.trig" />
@@ -177,6 +180,30 @@
       <option name="presentableId" value="Default" />
       <updated>1614926614363</updated>
     </task>
+    <task id="LOCAL-00001" summary="qw">
+      <created>1620330009312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620330009313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="qw" />
+    <option name="LAST_COMMIT_MESSAGE" value="qw" />
   </component>
 </project>
